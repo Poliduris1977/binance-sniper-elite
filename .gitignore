@@ -1,0 +1,6 @@
+﻿data/db/market.duckdb
+data/*.csv
+__pycache__/
+.env
+*.log
+.DS_Store
